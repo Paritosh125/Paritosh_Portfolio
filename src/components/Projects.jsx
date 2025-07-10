@@ -19,8 +19,8 @@ const projects = [
       "My personal portfolio website built using React + Tailwind with animations, dark theme, and lazy loading.",
     tech: ["React", "Tailwind", "Framer Motion"],
     image: "/projects/portfolio.jpg",
-    github: "",
-    demo: "",
+    github: "https://github.com/Paritosh125/Paritosh_Portfolio",
+    demo: "https://paritosh-portfolio-125.vercel.app/",
   },
 
   {
